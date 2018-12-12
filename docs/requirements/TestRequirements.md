@@ -104,7 +104,7 @@ Tests to implement
 |R86|Test for undefined EDNS OPTION-CODE |[NAMESERVER](../specifications/tests/Nameserver-TP/nameserver11.md)|
 |R87|Test for unknown EDNS flags |[NAMESERVER](../specifications/tests/Nameserver-TP/nameserver12.md)|
 |R88|Test for truncated EDNS responses |[NAMESERVER](../specifications/tests/Nameserver-TP/nameserver13.md)|
-
+|R88|Test for unknown version ansd OPTION-CODE |[NAMESERVER](../specifications/tests/Nameserver-TP/nameserver14.md)|
 Future tests
 ------------
  * Case insensitivity in a name server, [RFC 4343](https://tools.ietf.org/html/rfc4343).
